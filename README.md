@@ -30,3 +30,8 @@ ZSH personal configs use these technologies:
 - [zsh](https://www.zsh.org/)
 - [Oh my zsh](https://ohmyz.sh/)
 
+## 💻 Project
+
+This project centralizes my Zsh configurations for easy reuse across multiple devices
+
+
