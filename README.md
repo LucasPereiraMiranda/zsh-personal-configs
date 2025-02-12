@@ -40,7 +40,20 @@ This project centralizes my Zsh configurations for easy reuse across multiple de
     <img alt="Success" title="#success" src=".github/images/execution-preview.png" />
 </h1>
 
+### :boom: Installation
 
+```bash
+#  we can install zsh & oh my zsh in a linux enviroment
+$ sudo apt-get install zsh
+
+$ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+
+# we can clone this repo
+$ git clone git@github.com:LucasPereiraMiranda/zsh-personal-configs.git
+
+# we can replace our default .zshrc configs by the .zshrc configs existent at the presente repository 
+
+```
 
 ## License
 
