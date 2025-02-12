@@ -34,4 +34,9 @@ ZSH personal configs use these technologies:
 
 This project centralizes my Zsh configurations for easy reuse across multiple devices
 
+### Execution preview
+
+<h1 align="center">
+    <img alt="Success" title="#success" src=".github/images/execution-preview.png" />
+</h1>
 
