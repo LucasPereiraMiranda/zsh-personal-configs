@@ -40,3 +40,8 @@ This project centralizes my Zsh configurations for easy reuse across multiple de
     <img alt="Success" title="#success" src=".github/images/execution-preview.png" />
 </h1>
 
+
+
+## License
+
+[MIT](LICENSE)
