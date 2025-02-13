@@ -22,3 +22,11 @@
 </p>
 
 <br>
+
+## 🚀 Techs
+
+ZSH personal configs use these technologies:
+
+- [zsh](https://www.zsh.org/)
+- [Oh my zsh](https://ohmyz.sh/)
+
